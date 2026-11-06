@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" fill="none">
+  <style>[fill="#1C2941"],[stroke="#1C2941"]{fill:#420000;stroke:#420000}[fill="#3A4965"],[stroke="#3A4965"]{fill:#5C0000;stroke:#5C0000}[fill="#C6CBE0"],[stroke="#C6CBE0"]{fill:#E8CCCC;stroke:#E8CCCC}</style>
+  <style>[stop-color="#E5E5FF"],[fill="#E5E5FF"],[stroke="#E5E5FF"]{stop-color:#FFF5F5;fill:#FFF5F5;stroke:#FFF5F5}[stop-color="#D5E8F7"],[fill="#D5E8F7"],[stroke="#D5E8F7"]{stop-color:#F2DEDE;fill:#F2DEDE;stroke:#F2DEDE}[fill="#CBABFF"],[stroke="#CBABFF"],[stop-color="#CBABFF"]{fill:#A52A2A;stroke:#A52A2A;stop-color:#A52A2A}[fill="#7D78D8"],[stroke="#7D78D8"],[stop-color="#7D78D8"]{fill:#800000;stroke:#800000;stop-color:#800000}</style>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#E5E5FF"/><stop offset="1" stop-color="#D5E8F7"/></linearGradient></defs>
+  <rect width="640" height="300" rx="26" fill="url(#bg)"/><circle cx="531" cy="38" r="110" fill="#fff" fill-opacity=".31"/><circle cx="68" cy="286" r="119" fill="#fff" fill-opacity=".2"/>
+  <rect x="87" y="43" width="362" height="215" rx="18" fill="#1C2941"/><path d="M87 83h362" stroke="#3A4965"/><circle cx="110" cy="63" r="5" fill="#F28D83"/><circle cx="128" cy="63" r="5" fill="#F4CA70"/><circle cx="146" cy="63" r="5" fill="#79D3AD"/>
+  <text x="116" y="117" fill="#CBABFF" font-family="monospace" font-size="15">int</text><text x="150" y="117" fill="#FFD18B" font-family="monospace" font-size="15">main(void) {</text>
+  <text x="137" y="148" fill="#85DCC2" font-family="monospace" font-size="14">int score = 15;</text><text x="137" y="179" fill="#C6CBE0" font-family="monospace" font-size="14">if (score &gt; 10) {</text><text x="158" y="208" fill="#F3A4A0" font-family="monospace" font-size="14">printf("Hi");</text><text x="137" y="236" fill="#FFD18B" font-family="monospace" font-size="15">}</text>
+  <circle cx="514" cy="155" r="65" fill="#fff" fill-opacity=".72"/><circle cx="511" cy="154" r="42" stroke="#7D78D8" stroke-width="7"/><path d="M528 135c-6-7-15-11-25-10-17 1-29 14-28 31 1 17 14 28 31 27 9-1 17-5 22-12" stroke="#7D78D8" stroke-width="8" stroke-linecap="round"/>
+  <path d="m483 86 6 13 14 1-10 9 3 13-12-7-12 7 4-13-11-9 14-1 4-13Z" fill="#F3BF66"/>
+</svg>
